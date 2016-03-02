@@ -1,4 +1,5 @@
-# Pharo Project Consultants
+# Pharo Project Consultants [![Build Status](https://img.shields.io/jenkins/s/https/ci.inria.fr/pharo-contribution/PharoProjectConsultants.svg)](https://ci.inria.fr/pharo-contribution/job/PharoProjectConsultants/)
+
 
 List of consultants for [Pharo](https://pharo.org).
 
