@@ -166,5 +166,17 @@
  		#pharoExperienceSince : 2009,
  		#areasOfExpertise : 'Object-oriented modeling, Data Science, HPC, Bioinformatics, Documental Informatics, Applications, Libraries, Frameworks, System Administration, Legacy Code Refactoring & Migrations',
  		#smalltalkExperienceSince : 1998
+ 	},
+ 		PharoConsultant {
+		#id : 'kuszinger',
+ 		#email : 'kuszinger@giscom.hu',
+ 		#name : 'Robert Kuszinger',
+ 		#website : 'http://www.giscom.hu',
+ 		#location : 'Budapest, Hungary',
+ 		#languages : 'Hungarian (native), English',
+ 		#industryExperienceSince : 1997,
+ 		#smalltalkExperienceSince : 1996,
+ 		#pharoExperienceSince : 2013,
+ 		#areasOfExpertise : 'GIS, Remote Sensing, Applications, System Administration, Web Applications, Relational Databases'
  	}
 ]
