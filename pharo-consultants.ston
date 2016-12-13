@@ -12,6 +12,18 @@
 		#smalltalkExperienceSince : 1993
 	},
 	PharoConsultant {
+	    #name : 'Esteban A. Maringolo',
+	    #email : 'emaringolo@gmail.com',
+	    #website : 'http://trentosur.com',
+	    #id : 'Esteban  A. Maringolo',
+	    #location : 'Argentina',
+	    #languages : 'Spanish (native), English (proficiency level)',
+	    #industryExperienceSince : 2000,
+	    #pharoExperienceSince : 2011,
+	    #areasOfExpertise : 'Business domain models, Web technologies, relational databases, mobile development',
+	    #smalltalkExperienceSince : 2004
+	 },
+	PharoConsultant {
 		#name : 'Norbert Hartl',
 		#email : 'norbert@2denker.de',
 		#website : 'http://2denker.de',
@@ -128,7 +140,7 @@
 		#languages : 'German (native), English, French',
 		#industryExperienceSince : 2008,
  		#pharoExperienceSince : 2008,
- 		#areasOfExpertise : 'Pharo General, Reflection, Compilation, Continuous Integration',
+ 		#areasOfExpertise : 'Pharo General, Reflection, Compilation, Continuous Integration, TCAP, ASN.1, network protocols',
  		#smalltalkExperienceSince : 1998
  	},
 	PharoConsultant {
