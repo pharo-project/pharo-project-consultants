@@ -23,10 +23,9 @@
 	    #areasOfExpertise : 'Business domain models, Web technologies, relational databases, mobile development',
 	    #smalltalkExperienceSince : 2004
 	 },
-	 
 	PharoConsultant {
 			#name : 'Eliot Miranda',
-			#email : eliot.miranda@gmail.com',
+			#email : 'eliot.miranda@gmail.com',
 			#website : 'http://mirandabanda.org',
 			#id : 'eliot.miranda (currently not used for anything)',
 			#location : 'San Francisco, USA',
@@ -36,7 +35,6 @@
 			#areasOfExpertise : 'virtual machine, garbage collection, compiler, FFI',
 			#smalltalkExperienceSince : 1983
 		}, 
-	 
 	PharoConsultant {
 		#name : 'Norbert Hartl',
 		#email : 'norbert@2denker.de',
