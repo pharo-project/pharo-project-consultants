@@ -24,18 +24,6 @@
 	    #smalltalkExperienceSince : 2004
 	 },
 	PharoConsultant {
-			#name : 'Eliot Miranda',
-			#email : 'eliot.miranda@gmail.com',
-			#website : 'http://mirandabanda.org',
-			#id : 'eliot.miranda (currently not used for anything)',
-			#location : 'San Francisco, USA',
-			#languages : 'English, French',
-			#industryExperienceSince : 1993,
-			#pharoExperienceSince : 2011,
-			#areasOfExpertise : 'virtual machine, garbage collection, compiler, FFI',
-			#smalltalkExperienceSince : 1983
-		}, 
-	PharoConsultant {
 		#name : 'Norbert Hartl',
 		#email : 'norbert@2denker.de',
 		#website : 'http://2denker.de',
