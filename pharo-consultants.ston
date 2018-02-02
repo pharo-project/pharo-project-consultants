@@ -25,7 +25,7 @@
 	 },
 	 
 	PharoConsultant {
-			#name : 'Eliot Miranda'
+			#name : 'Eliot Miranda',
 			#email : eliot.miranda@gmail.com',
 			#website : 'http://mirandabanda.org',
 			#id : 'eliot.miranda (currently not used for anything)',
