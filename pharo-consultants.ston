@@ -35,7 +35,7 @@
 			#pharoExperienceSince : 2011,
 			#areasOfExpertise : 'virtual machine, garbage collection, compiler, FFI',
 			#smalltalkExperienceSince : 1983
-		} 
+		}, 
 	 
 	PharoConsultant {
 		#name : 'Norbert Hartl',
